@@ -1,1 +1,2 @@
 # Simple-Calculator
+This is a simple command-line calculator program using java programming language. The end-user will use a text file to input two numbers to the program. At the run time the system will ask the user about the operation that he wants to perform on those two numbers. The system should support four operations namely addition, subtraction, division, and multiplication. Then the final output will be shown to the user in the command line.
